@@ -1,5 +1,5 @@
 ##This assignment was submitted as part of the Concepts of Programming Languages course
-Converted and explained by Dalia – Tuesday Section 1-3
+Converted and explained by Dalia Mahmoud
 
 # LexicalAnalyzerAssignment-
 Lexical Analyzer in Python
