@@ -7,12 +7,20 @@ This project is a Python version of a lexical analyzer originally written in C.
 It reads arithmetic expressions and identifies tokens like:
 
 Identifiers (like sum, total)
-
 Integer numbers
-
 Arithmetic operators: +, -, *, /
-
 Parentheses: ( and )
+
+
+How to Run
+1.Clone or download the repo.
+2.Make sure you have Python installed.
+3.Run the script using:
+python lexical_analyzer.py
+
+
+
+
 
 Example Output:
 Next token is: 25, Next lexeme is (
@@ -25,11 +33,7 @@ Next token is: 11, Next lexeme is total
 Next token is: -1, Next lexeme is EOF
 
 
-How to Run
-1.Clone or download the repo.
-2.Make sure you have Python installed.
-3.Run the script using:
-python lexical_analyzer.py
+
 
 
 
